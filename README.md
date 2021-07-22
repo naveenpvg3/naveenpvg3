@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <p> <br><br><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=naveenpvg3&show_icons=true&theme=radical" alt="Naveen" /> 
 </p>
+
 ## My languages
 * C
 * C++
